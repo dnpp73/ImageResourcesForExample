@@ -16,12 +16,23 @@ iOS Icons(iPhone, iPad, @1x, @2x, @3x, iOS6-8)
 180
 
 Mac Icons
-あとで
+16
+32
+64
+128
+256
+512
 1024
-2048
 
 Apple Watch Icons
-あとで
+29
+36
+58
+80
+87
+88
+172
+196
 
 ---
 
@@ -46,4 +57,5 @@ iPad
 
 
 Apple Watch
-あとで
+272 x 340
+312 x 390
